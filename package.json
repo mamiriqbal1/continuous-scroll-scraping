@@ -11,8 +11,5 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^19.6.2"
-  },
-  "type": "module",
-  "description": "",
-  "types": "module"
+  }
 }
