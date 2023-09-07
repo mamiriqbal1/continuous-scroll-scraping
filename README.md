@@ -14,6 +14,10 @@ $ npm install
 $ npm start
 ```
 
-## Author
+## Original Author
 
 - **Gaël THOMAS** - [gaelgthomas](https://github.com/gaelgthomas)
+
+## Modified By
+
+- **Muhammad Amnir Iqbal** - [mamiriqbal1](https://github.com/mamiriqbal1)
