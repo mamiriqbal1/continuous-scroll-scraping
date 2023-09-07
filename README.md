@@ -1,6 +1,6 @@
-# First Puppeteer Scraper (example)
+# Continuous Scroll Scraping - Quotes
 
-This project was realized as part of the "Web Scraping in JavaScript – How to Use Puppeteer to Scrape Web Pages" article. Feel free to read it to learn more about this library and how this code works.
+Modifications were made to the original version to include scraping of quotes with continuous scrolling.
 
 ### Build
 
